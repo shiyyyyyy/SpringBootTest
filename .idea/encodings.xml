@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/demo01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo03hikari/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo04mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo04mybatis1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo05jpa2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo06redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo07springmvc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo3junit/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m2_hello/src/main/java" charset="UTF-8" />
+  </component>
+</project>
